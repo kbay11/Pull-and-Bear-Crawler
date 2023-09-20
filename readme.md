@@ -32,3 +32,7 @@ I do not endorse or promote any illegal, harmful, or unethical activities and as
 By using this web crawler, you agree to abide by its intended usage and acknowledge that any misuse or violation of applicable laws and regulations is solely your responsibility.
 
 Please use responsibly.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
